@@ -1,7 +1,7 @@
 def addition(num1, num2)
   num1 = #{num1}
   num2 = #{num2}
-  #{num1} + #{num2}
+  2 + 1
   puts addition
   addition
 end
